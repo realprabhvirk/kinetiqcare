@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Point crawlers to the sitemap
+Sitemap: https://kinetiqcare.com.au/sitemap.xml
